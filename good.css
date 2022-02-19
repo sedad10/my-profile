@@ -166,6 +166,9 @@ footer a i:hover{
         height: 90%;
     }
     body{
+    height: 100vh;
+    }
+    .section{
     height: 100%;
     }
 }
