@@ -165,4 +165,7 @@ footer a i:hover{
         width: 80%;
         height: 90%;
     }
+    body{
+    height: 100%;
+    }
 }
