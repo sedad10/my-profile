@@ -163,7 +163,7 @@ footer a i:hover{
 @media screen and (max-width: 376px){
     .holder{
         width: 80%;
-        height: 90%;
+        height: 100%;
     }
     body{
     height: 100vh;
