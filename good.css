@@ -167,6 +167,9 @@ footer a i:hover{
     }
     body{
     height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: repeat;
     }
     .section{
     height: 100%;
