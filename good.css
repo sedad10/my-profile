@@ -174,7 +174,10 @@ footer a i:hover{
     .clubh{   /* clubhouse icon but it is png*/
     width: 25px;
     height: 25px;
-}
+  }
+   .club a {
+    font-size: 26px;
+  }
 }
 @media screen and (max-width: 376px){
     .holder{
